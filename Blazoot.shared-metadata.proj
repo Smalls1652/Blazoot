@@ -1,0 +1,8 @@
+﻿<Project>
+    <PropertyGroup>
+        <Authors>Timothy Small</Authors>
+        <Company>Smalls.Online</Company>
+        <RepositoryUrl>https://github.com/Smalls1652/Blazoot</RepositoryUrl>
+        <PackageLicenseUrl>https://raw.githubusercontent.com/Smalls1652/Blazoot/main/LICENSE</PackageLicenseUrl>
+    </PropertyGroup>
+</Project>

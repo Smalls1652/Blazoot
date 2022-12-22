@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "src\Lib\Lib.csproj", "{9E3238B4-FC1C-4621-9B2A-E2C1C90916D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazoot.shared-metadata", "Blazoot.shared-metadata.proj", "{D1071AB5-8EEB-4F29-AEAF-F220F99DDD76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazoot.version", "Blazoot.version.proj", "{8A8FA85D-8DF0-412A-86CB-47A233BFD1ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
